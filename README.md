@@ -10,11 +10,9 @@ I love sharing what I learn, for free of course - I will never ask you for money
 Most of my stuff will be under the Unlicense, do whatever you want with my code and don't credit me!
 ## 📫 Contact?
 
-Don't hesitate to reach out, I respect everyone!
+Whether you've got a bug you feel you should share privately, or just want to chat,<br> don't hesitate to reach out. I respect every race, gender, religion, and anything else!
 
 ![Discord logo](https://i.imgur.com/BvvyqHK.png) Let's talk on Discord: [@svn.ow](https://discord.com/)
-
-![YouTube logo](https://i.imgur.com/OOAQDD5.png) I have a YouTube channel: [@sevenowh](https://www.youtube.com/@sevenowh)
 
 
 <!---
