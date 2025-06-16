@@ -7,6 +7,6 @@ All repositories *fully* owned by **me** will be [Unlicense](https://unlicense.o
 
 ## 📫?
 
-Whether you've got a bug you feel you should share privately, or just want to chat,<br> don't hesitate to reach out. I respect every race, gender, orientation, or religion.
+Whether you've got a bug you feel you should share privately, or just want to chat,<br> don't hesitate to reach out. I respect every race, gender, country, orientation, or religion.
 
 ![Discord logo](https://i.imgur.com/BvvyqHK.png) Let's chat on Discord: [@.ow777](https://discord.com/)
